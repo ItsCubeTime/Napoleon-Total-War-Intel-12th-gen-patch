@@ -41,3 +41,4 @@ https://www.youtube.com/watch?v=-gUf6t6yDXo
 * Olliver A, *For writing this guide & recording linked video based on Logical's patch.*
 
 https://forums.totalwar.com/discussion/328436/intel-12th-gen-patch-tested-running-with-no-performance-issues-on-intel-i9-12900k-w-ecores-enabled/
+https://github.com/ItsCubeTime/Napoleon-Total-War-Intel-12th-gen-patch
