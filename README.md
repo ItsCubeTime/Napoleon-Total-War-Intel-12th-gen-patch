@@ -14,7 +14,9 @@ We will be:
 https://github.com/ItsCubeTime/Napoleon-Total-War-Intel-12th-gen-patch/releases
 https://terabox.com/s/1gXOUndbPoj1_MHRcUOf5Yg
 
-*To use the premade executable, you simply locate your Napoleon.exe & replace it with the file linked above (and rename it accordingly), aftet that the patch is complete & you should be able to fire up the game like normal (except, this time it wont shut itself down immediately).*
+*As an alternative to creating the patch yourself using Ghidra, you can also just install my pre-patched executable. To use it, you simply locate Napoleon.exe in your Napoleon Total War install directory & replace it with the patched executable linked above (and rename it accordingly), aftet that the patch is complete & you should be able to fire up the game like normal (except, this time it wont shut itself down immediately).*
+
+*On most systems, the executable will be located at `C:\Program Files (x86)\Steam\steamapps\common\Napoleon Total War\Napoleon.exe`*
 
 ### Video guide
 
