@@ -11,6 +11,7 @@ We will be:
 
 ### Binary download links
 
+https://github.com/ItsCubeTime/Napoleon-Total-War-Intel-12th-gen-patch/blob/main/Napoleon_intel_12th_gen_patched.exe
 https://terabox.com/s/1gXOUndbPoj1_MHRcUOf5Yg
 
 *To use the premade executable, you simply locate your Napoleon.exe & replace it with the file linked above (and rename it accordingly)*
