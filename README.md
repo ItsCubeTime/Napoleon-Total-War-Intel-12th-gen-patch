@@ -1,7 +1,7 @@
 <!-- Compile to html with https://markdowntohtml.com/ -->
 
 # Napoleon Total War: Intel 12th-gen Patch Tutorial
-*A guide on how to patch Napoleon Total War to run on Intel 12th-gen processors, such as the i9-12900k which NTW has been known not to be able to boot on up until now due to DRM issues.*
+*A guide on how to patch Napoleon Total War to run on Intel 12th & 13th gen processors, such as the i9-12900k which NTW has been known not to be able to boot on up until now due to DRM issues.*
 
 
 We will be:
@@ -37,6 +37,10 @@ https://www.youtube.com/watch?v=-gUf6t6yDXo
 
 
 #### Fire up the game & enjoy your 12th gen CPU! Thanks for reading 💖
+
+### Known issues
+
+* Multiplayer appears to require that both players use the patch. See: https://imgur.com/a/eBRXG4p . Please open an issue on our Github page if you find a solution for this https://github.com/ItsCubeTime/Napoleon-Total-War-Intel-12th-gen-patch/issues
 
 ### Credits
 * Redditor LogicalMaintenance35 *for discovering the patch  https://www.reddit.com/r/totalwar/comments/za16n4/comment/j899js4/?utm_source=share&utm_medium=web2x&context=3*
