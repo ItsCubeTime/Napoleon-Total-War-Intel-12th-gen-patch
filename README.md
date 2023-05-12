@@ -1,4 +1,7 @@
 <!-- Compile to html with https://markdowntohtml.com/ -->
+# Update 5-12-2023: 
+*Official 12th gen and up support is now available via official Steam releases https://steamcommunity.com/app/34030/eventcomments/3830916907607927746?snr=1_2108_9__2107&ctp=20 . A little sad that they removed the in-game chat however, it wont be easy to play with strangers if you cant communicate.*
+
 
 # Napoleon Total War: Intel 12th-gen Patch Tutorial
 *A guide on how to patch Napoleon Total War to run on Intel 12th & 13th gen processors, such as the i9-12900k which NTW has been known not to be able to boot on up until now due to DRM issues.*
